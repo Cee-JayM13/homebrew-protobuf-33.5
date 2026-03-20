@@ -1,4 +1,4 @@
-class Protobuf33.5 < Formula
+class Protobuf33 < Formula
   desc "Protocol buffers (Google's data interchange format)"
   homepage "https://protobuf.dev/"
   url "https://github.com/protocolbuffers/protobuf/releases/download/v33.5/protobuf-33.5.tar.gz"
